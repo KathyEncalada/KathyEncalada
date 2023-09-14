@@ -7,12 +7,12 @@ Hi! I love learning, and I enjoy both programming and theater. I find inspiratio
 const sol = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Jest],
+  tools: [React, Node, Jest, Firebase, NPM],
 }
 ```
 <h3>🛠 Tech Stack</h3>
 
 
-🌐   HTML | CSS | JavaScript | ReactJS | MarkDown | FireBase | Node.Js | NPM |
+🌐   HTML | CSS | JavaScript | ReactJS | MarkDown | FireBase | Node.Js | NPM | Jest |
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
