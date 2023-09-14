@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sol! 👋🏼 👩🏻‍💻<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Sol! 👋🏼 👩🏻‍💻</h2>
 Hi! I love learning, and I enjoy both programming and theater. I find inspiration in the world of technology and on the stage. I'm always looking for new challenges and opportunities to learn and grow. 🎭🖥️✨
 
 
